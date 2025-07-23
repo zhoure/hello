@@ -1,0 +1,15 @@
+Index: codefile
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>代码111\r\n代码222\r\n代码311\r\ndaima4\r\n傻傻的\r\n12312312\r\nwqeqweq\r\n123123\r\n开始\r\n楷书\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/codefile b/codefile
+--- a/codefile	(revision e5a4c18e69ab011bc151f746e8da57096fb3e7fb)
++++ b/codefile	(date 1753277083461)
+@@ -8,3 +8,4 @@
+ 123123
+ 开始
+ 楷书
++hello
